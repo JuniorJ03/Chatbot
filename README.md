@@ -18,15 +18,11 @@ Get your API key from https://platform.openai.com/account/api-keys
 Replace "sk-" in the script with your actual secret key:
 
 python
-Copy
-Edit
 openai.api_key = "sk-your-api-key"
 🚀 How to Run
 Save the script as chat.py, then run it in your terminal:
 
 bash
-Copy
-Edit
 python chat.py
 Type your messages, and GPT will respond. To exit, type:
 
